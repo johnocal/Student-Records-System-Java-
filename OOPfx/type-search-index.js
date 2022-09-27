@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Controller","l":"DAOController"},{"p":"Controller","l":"DatabaseSetUp"},{"p":"application","l":"Main"},{"p":"Model","l":"ModuleModel"},{"p":"Model","l":"NameModel"},{"p":"Model","l":"StudentModel"}];updateSearchResults();
